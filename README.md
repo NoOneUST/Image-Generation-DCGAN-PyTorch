@@ -1,6 +1,6 @@
-# Image-Generation-DCGAN-Tensorflow
+# Image-Generation-DCGAN-PyTorch
 ## Overview
-We use DCGAN to generate 32 by 32 images with TensorFlow.
+We use DCGAN to generate 32 by 32 images with PyTorch.
 
 ## Experiment Result
                                                     After 704800 iterations
